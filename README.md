@@ -1,4 +1,4 @@
 # SamBundles
 
 
-www.samuelcharacterdev.tk/
+samuelcharacterdev.tk/
